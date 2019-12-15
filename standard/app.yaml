@@ -1,0 +1,3 @@
+runtime: go112
+# "default" if not specified
+service: standard
